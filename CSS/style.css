@@ -17,3 +17,21 @@ body{
 .nav-link:hover{
     color: #b8b8c5;
 }
+
+.uxDes{
+    font-family: "Alice", Georgia, serif;
+    font-size: 35px;
+}
+
+.fancy{
+    font-family: "Style Script", Georgia, serif;
+    font-size: 35px;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+.contact{
+    text-align: center;
+}
