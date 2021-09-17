@@ -17,8 +17,10 @@ button{
     cursor: pointer;
 }
 
-.contact{
-    text-align: center;
+.fab{
+    font-size: 50pt;
+    padding: 20px;
+    color: black;
 }
 
 .fancy{
@@ -45,6 +47,7 @@ button{
 
 .row{
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .uxDes{
@@ -52,12 +55,17 @@ button{
     font-size: 35px;
 }
 
+.works{
+    margin-bottom: 50px;
+    text-align: center;
+}
 
 /* Footer */
 footer{
     background-color: #10040E;
     color: #EEEEFF;
     font-size: 10pt;
+    margin-bottom: none;
   }
 
 .footList{
