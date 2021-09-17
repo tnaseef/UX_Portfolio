@@ -23,6 +23,10 @@ button{
     color: black;
 }
 
+.fa-bars{
+    padding-top: 6px;
+}
+
 .fancy{
     font-family: "Style Script", Georgia, serif;
     font-size: 35px;
@@ -40,6 +44,10 @@ button{
 
 .navbar-toggler{
     background-color: #EEEEFF;
+    color: black;
+}
+
+.navbar-toggler-icon{
     color: black;
 }
 
@@ -72,7 +80,7 @@ footer{
     font-size: 10pt;
     margin-bottom: 0;
     bottom: 0;
-  }
+}
 
 .footList{
     font-size: 12pt;
@@ -84,6 +92,9 @@ footer{
     color: #EEEEFF;
     text-decoration: none;
 }
+.footList a:hover{
+    color: #b8b8c5;
+}
 
 .footList button{
     color: #EEEEFF;
@@ -93,4 +104,8 @@ footer{
 
 .footLI{
   display: inline;
+}
+
+.copyright{
+    margin-bottom: 0;
 }
