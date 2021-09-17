@@ -38,6 +38,11 @@ button{
     color: white;
 }
 
+.navbar-toggler{
+    background-color: #EEEEFF;
+    color: black;
+}
+
 .nav-link{
     color: #EEEEFF;
 }
@@ -65,7 +70,8 @@ footer{
     background-color: #10040E;
     color: #EEEEFF;
     font-size: 10pt;
-    margin-bottom: none;
+    margin-bottom: 0;
+    bottom: 0;
   }
 
 .footList{
