@@ -6,6 +6,31 @@ body{
     color: #10040E;
 }
 
+button{
+    font-family: "Spectral", Garamond, serif;
+    color: #17A398;
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+    padding: 0%;
+    font-size: 16pt;
+    cursor: pointer;
+}
+
+.contact{
+    text-align: center;
+}
+
+.fancy{
+    font-family: "Style Script", Georgia, serif;
+    font-size: 35px;
+}
+
+.info a{
+    color: #17A398;
+    text-decoration: underline;
+}
+
 .navbar{
     background-color: #10040E;
     color: white;
@@ -18,20 +43,40 @@ body{
     color: #b8b8c5;
 }
 
+.row{
+    margin-top: 20px;
+}
+
 .uxDes{
     font-family: "Alice", Georgia, serif;
     font-size: 35px;
 }
 
-.fancy{
-    font-family: "Style Script", Georgia, serif;
-    font-size: 35px;
+
+/* Footer */
+footer{
+    background-color: #10040E;
+    color: #EEEEFF;
+    font-size: 10pt;
+  }
+
+.footList{
+    font-size: 12pt;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 
-.row{
-    margin-top: 20px;
+.footList a{
+    color: #EEEEFF;
+    text-decoration: none;
 }
 
-.contact{
-    text-align: center;
+.footList button{
+    color: #EEEEFF;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.footLI{
+  display: inline;
 }
