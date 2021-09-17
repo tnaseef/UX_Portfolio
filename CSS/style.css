@@ -109,3 +109,25 @@ footer{
 .copyright{
     margin-bottom: 0;
 }
+
+/* Skills */
+.listHead{
+    outline: none;
+    font-size: 20pt;
+    text-decoration: underline;
+}
+
+.miscSkills{
+    grid-area: more;
+    outline: none;
+}
+
+.miscSkills li{
+    display: inline;
+    padding: 1px;
+}
+
+
+.skills .col-sm{
+    text-align: left;
+}
