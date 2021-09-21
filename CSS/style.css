@@ -17,6 +17,10 @@ button{
     cursor: pointer;
 }
 
+.center{
+    text-align: center;
+}
+
 .fab{
     font-size: 50pt;
     padding: 20px;
@@ -56,6 +60,15 @@ button{
 }
 .nav-link:hover{
     color: #b8b8c5;
+}
+
+.pad{
+    padding: 20px;
+}
+
+.pgHead{
+    padding: 30px;
+    font-family: "Alice", Georgia, serif;
 }
 
 .row{
@@ -159,7 +172,21 @@ footer{
 }
 
 .skills .col-sm{
+    text-align: center;
+}
+
+.skills li{
     text-align: left;
+}
+
+/* Works */
+.projHead{
+    padding-bottom: 20px;
+    padding-left: 35px;
+}
+
+.works h4{
+    padding-bottom: 10px;
 }
 
 /* IDs */
