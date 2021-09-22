@@ -45,6 +45,10 @@ button{
     text-decoration: underline;
 }
 
+.mw100{
+    max-width: 100%;
+}
+
 .navbar{
     background-color: #10040E;
     color: white;
@@ -194,6 +198,19 @@ footer{
     color: #441151;
 }
 
+.features{
+    max-width: 100%;
+    padding-top: 15px;
+}
+
+.featureStatement{
+    padding: 20px;
+}
+
+.flow{
+    padding: 30px;
+}
+
 .mApp{
     padding-top: 0;
 }
@@ -222,12 +239,46 @@ footer{
     color: #621475;
 }
 
-.stickies{
-    max-width: 34.915%;
+#research{
+    padding: 80px;
+    text-align: center;
 }
 
-.userPersona{
-    max-width: 65.085%;
+.statement{
+    padding: 50px;
+}
+
+.stickies{
+    max-width: 80%;
+}
+
+.sticky{
+    text-align: center;
+}
+
+.subNav{
+    padding: 50px;
+    padding-bottom: 80px;
+}
+
+.summ{
+    font-size: 22pt;
+    padding: 50px;
+}
+
+.tFlow{
+    max-width: 100%;
+    margin-top: -30px;
+}
+
+.uPersona{
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+
+.wireframe{
+    max-height: 80%;
 }
 
 .works h4{
