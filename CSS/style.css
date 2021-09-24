@@ -188,6 +188,10 @@ footer{
 }
 
 /* Works */
+.carousel-caption{
+    background-color: rgba(150, 150, 150, 0.8);
+}
+
 .caseBack{
     margin-top: 15px;
     text-align: left;
