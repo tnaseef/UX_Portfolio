@@ -252,6 +252,10 @@ footer{
     padding-left: 35px;
 }
 
+#protoPT img{
+    max-width: 100%;
+}
+
 .purple{
     padding: 0;
     margin-top: -40px;
@@ -263,8 +267,17 @@ footer{
     text-align: center;
 }
 
+.sideNote{
+    font-size: 14pt;
+}
+
 .statement{
     padding: 50px;
+}
+
+#statementsPT{
+    padding: 50px;
+    text-align: center;
 }
 
 .stickies{
@@ -294,6 +307,13 @@ footer{
     text-align: right;
     padding: 0;
     margin: 0;
+}
+
+.uStatementPT{
+    color: rgb(118, 56, 177);
+    font-style: italic;
+    font-size: 18pt;
+    padding: 5px;
 }
 
 .wireframe{
