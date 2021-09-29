@@ -74,6 +74,14 @@ button{
     padding: 20px;
 }
 
+.pad10{
+    padding: 10px;
+}
+
+.pad50{
+    padding: 50px;
+}
+
 .pgHead{
     padding: 30px;
     font-family: "Alice", Georgia, serif;
@@ -262,6 +270,14 @@ footer{
     color: #621475;
 }
 
+.quotePT{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #621475;
+    font-style: italic;
+    text-align: center;
+}
+
 #research{
     padding: 80px;
     text-align: center;
@@ -296,6 +312,10 @@ footer{
 .summ{
     font-size: 22pt;
     padding: 50px;
+}
+
+#testingPT i{
+    color: gray;
 }
 
 .tFlow{
