@@ -25,6 +25,11 @@ button{
     text-align: center;
 }
 
+.disclaimer{
+    font-size: 14pt;
+    text-align: center;
+}
+
 .fab{
     font-size: 50pt;
     padding: 20px;
@@ -253,6 +258,11 @@ footer{
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 10px;
+    text-decoration: none;
+}
+.playButton:hover{
+    color: #b8b8c5;
+    text-decoration: underline;
 }
 
 .projHead{
