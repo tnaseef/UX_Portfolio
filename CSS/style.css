@@ -351,8 +351,20 @@ footer{
     max-height: 80%;
 }
 
+.works a{
+    color: #17A398;
+}
+
 .works h4{
     padding-bottom: 10px;
+}
+
+#worksGithub{
+    margin-top: -35px;
+}
+
+#worksOrgVRCC{
+    margin-top: -20px;
 }
 
 /* Starry Banner */
