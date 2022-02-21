@@ -30,10 +30,6 @@ button{
     text-align: center;
 }
 
-.email{
-    color: #17A398;
-}
-
 .fab{
     font-size: 50pt;
     padding: 20px;
@@ -136,10 +132,26 @@ footer{
     bottom: 0;
 }
 
+.footContact{
+    padding-top: 10px;
+    margin-right: 10px;
+    text-align: end;
+    font-size: 12pt;
+}
+
+.footContact a{
+    color: #EEEEFF;
+}
+
+.footContact a:hover{
+    color: #b8b8c5;
+    text-decoration: none;
+}
+
 .footList{
     font-size: 12pt;
     padding-left: 10px;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 .footList a{
@@ -158,6 +170,12 @@ footer{
 
 .footLI{
   display: inline;
+}
+
+.footRow{
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
 }
 
 .copyright{
